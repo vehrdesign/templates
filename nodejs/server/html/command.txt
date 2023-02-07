@@ -1,0 +1,6 @@
+START server:
+node app.js
+
+END server
+COMMAND + C (MAC)
+CTRL + C

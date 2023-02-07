@@ -1,0 +1,36 @@
+CREATE PROJECT
+
+open TERMINAL
+cd /subfolder
+---
+npm init
+---
+package name: xxx
+version: 1.0.0
+descritption: xxx
+entry point: xxx.js (app.js)
+test comand
+git respository: vehrdesign/xresposityx
+keywords
+author
+license (ISC)
+
+--> creates package.json
+---
+
+RUN APP
+
+file: package.json
+"script"s" array add
+---
+scripts: "
+    "start": "node app.js"
+---
+
+TERMINAL
+---
+npm start
+--> START APP
+node app.js (appname)
+--> LOG AUSGEBEN
+---
