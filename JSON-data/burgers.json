@@ -1,0 +1,39 @@
+[
+    - {
+    id: 1,
+    name: "Cheeseburger",
+    restaurant: "The Street",
+    web: "www.thestreet.com",
+    description: "Cheesiest burger to get in town",
+    - ingredients: [
+            "beef",
+            "cheddar cheese",
+            "bacon",
+            "mozarella",
+            "lettuce"
+        ],
+    - extras: [
+            "chillies",
+            "cream cheese",
+            "double beef"
+        ]
+    },
+- {
+    id: 1,
+    name: "Veggieburger",
+    restaurant: "The Street",
+    web: "www.thestreet.com",
+    description: "Cheesiest burger to get in town",
+    - ingredients: [
+            "falafel",
+            "cheddar cheese",
+            "humus",
+            "mozarella",
+            "lettuce"
+        ],
+    - extras: [
+            "chillies",
+            "youghurt sauce"
+        ]
+    } 
+]
